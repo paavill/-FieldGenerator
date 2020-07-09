@@ -1,0 +1,13 @@
+D:\MY FOLDER\C#\gener\gener\bin\Debug\netcoreapp3.1\gener.exe
+D:\MY FOLDER\C#\gener\gener\bin\Debug\netcoreapp3.1\gener.deps.json
+D:\MY FOLDER\C#\gener\gener\bin\Debug\netcoreapp3.1\gener.runtimeconfig.json
+D:\MY FOLDER\C#\gener\gener\bin\Debug\netcoreapp3.1\gener.runtimeconfig.dev.json
+D:\MY FOLDER\C#\gener\gener\bin\Debug\netcoreapp3.1\gener.dll
+D:\MY FOLDER\C#\gener\gener\bin\Debug\netcoreapp3.1\gener.pdb
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.csprojAssemblyReference.cache
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.AssemblyInfoInputs.cache
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.AssemblyInfo.cs
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.csproj.CoreCompileInputs.cache
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.dll
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.pdb
+D:\MY FOLDER\C#\gener\gener\obj\Debug\netcoreapp3.1\gener.genruntimeconfig.cache
